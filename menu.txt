@@ -2,3 +2,5 @@ Menu
 1)Chicken
 2)chapati
 3)dal
+4)palak
+5)salad
